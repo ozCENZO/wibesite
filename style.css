@@ -1,0 +1,107 @@
+
+*{
+    margin: 0;
+}
+header{
+    width: 1920px;
+    height: 110px;
+    left: 0px;
+    top: 0px;
+    background: #00093C;
+}
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 51.93px;
+    left: 370px;
+    top: 14.7px;
+}
+.writelogo1{
+    position: absolute;
+    width: 20px;
+    height: 7px;
+    left: 533px;
+    top: 47.51px;
+    border: 2px solid #FFFFFF;
+    border-radius: 3px;
+}
+.writelogo2{
+    position: absolute;
+    width: 20px;
+    height: 7px;
+    left: 533px;
+    top: 56.49px;
+    border: 2px solid #FFFFFF;
+    border-radius: 3px;
+}
+.writer_naw{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    left: 530px;
+    top: 50px;
+    position: absolute;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 14px;
+}
+h1{
+    position: absolute;
+    width: 508px;
+    height: 44px;
+    left: 370.11px;
+    top: 146px;
+    color: #000000;
+}
+.box{
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+width: 600px;
+height: 50px;
+left: 688px;
+top: 244.42px;
+    
+
+}
+.photochild1{
+    width: 49.08px;
+height: 49.08px;
+
+}
+.writeA{
+    width: 44px;
+    height: 20px;
+}
+.photochild2{
+    width: 49.08px;
+height: 49.08px;
+}
+.writeA1{
+    width: 96px;
+height: 20px;
+}
+.photochild3{
+    width: 49.08px;
+height: 49.08px;
+}
+.writeA2{
+    width: 87px;
+    height: 20px;
+}
+.boxlong{
+position: absolute;
+width: 1180px;
+height: 0px;
+left: 370px;
+top: 309.54px;
+border: 1px solid #E0E0E0;
+
+}
+.side{
+
+}
+.write{
+    width: 168px;
+height: 20px;
+}
